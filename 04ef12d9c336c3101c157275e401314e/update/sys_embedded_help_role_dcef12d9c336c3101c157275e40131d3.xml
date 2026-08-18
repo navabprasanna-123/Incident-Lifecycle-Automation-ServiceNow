@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_2050261_project.user" name="x_2050261_project.user">18ef12d9c336c3101c157275e40131d1</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-18 14:55:54</sys_created_on>
+        <sys_id>dcef12d9c336c3101c157275e40131d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>18ef12d9c336c3101c157275e40131d1</sys_name>
+        <sys_package display_value="project" source="x_2050261_project">04ef12d9c336c3101c157275e401314e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="project">04ef12d9c336c3101c157275e401314e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_dcef12d9c336c3101c157275e40131d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-18 14:55:54</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
